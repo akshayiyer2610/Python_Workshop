@@ -1,0 +1,5 @@
+compiled Vs interpreted language
+
+Difference between list and tuple
+
+All variables are pointers in Python. If you want ot create a duplicate variable, create a new instance of the class.
